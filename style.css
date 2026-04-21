@@ -1,0 +1,47 @@
+body {
+  background-color: green;
+}
+h1 {
+  color:black;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px
+}
+h2{
+  color:red;
+  text-align: right;
+}
+h3{
+  font-family: "Brush Script MT", cursive;
+  font-size: 15px
+}
+ul li {
+  color:yellow;
+  font-weight: bold;
+  font-family: arial;
+}
+h4{
+  color: black;  
+}
+h5 {
+  color: white;
+  font-family: "Brush Script MT", cursive;
+  font-size: 30px;
+}
+.center{
+  text-align: center;
+  color: darkblue;
+  font-size: 35px;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  width: 60%;
+}
+.foto-centrada {
+  width: 80%;
+    max-width: 700px;
+  border-radius: 15px;
+}
